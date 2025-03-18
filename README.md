@@ -1,1 +1,1 @@
-# grpc-etcd-demo
+# e-business-platform
